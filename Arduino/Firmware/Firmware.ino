@@ -9,7 +9,8 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
-
+#define CAPSENSEDIY_PIN_RCEVPIN	2
+#define CAPSENSEDIY_PIN_SENDPIN	3
 
 // =======================Pin Definitions // ===================================
 
